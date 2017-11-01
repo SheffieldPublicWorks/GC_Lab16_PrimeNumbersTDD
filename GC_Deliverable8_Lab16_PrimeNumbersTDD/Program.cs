@@ -16,6 +16,10 @@ namespace GC_Deliverable8_Lab16_PrimeNumbersTDD
                                    137, 139, 149, 151, 157, 163, 167, 173, 179,
                                    181, 191, 193, 197, 199 };
 
+            Console.WriteLine("/***************************************/");
+            Console.WriteLine("/* Welcome to the Primo Primaries v1.0 */");
+            Console.WriteLine("/***************************************/");
+
         }
     }
 }
